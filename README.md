@@ -1,3 +1,0 @@
-# OdinProject
-
-Hello Odin!
